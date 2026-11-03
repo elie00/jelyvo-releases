@@ -12,3 +12,9 @@ Télécharger le dernier APK : [Releases → Latest](https://github.com/elie00/j
 À la première installation, Android demande d'autoriser l'installation depuis
 des sources inconnues. Les mises à jour suivantes sont proposées directement
 dans l'application.
+
+## Code source
+
+Jelyvo est un logiciel libre. Son code source est disponible sur
+[github.com/elie00/jelyvo](https://github.com/elie00/jelyvo), sous licence GPL-3.0.
+Le module Automix (`automix/`) est sous licence AGPL-3.0.
